@@ -1,0 +1,19 @@
+{
+    "weights": {
+        "attendance": 0.3,
+        "academic": 0.3,
+        "behavioral": 0.15,
+        "demographic": 0.1,
+        "transportation": 0.15,
+        "socioeconomic": 0.1,
+        "special_needs": 0.05
+    },
+    "thresholds": {
+        "ca_attendance": 90.0,
+        "academic_risk": 60.0,
+        "behavioral_risk": 3,
+        "transportation_risk": 30,
+        "attendance_borderline_lower": 85.0,
+        "attendance_borderline_upper": 95.0
+    }
+}
