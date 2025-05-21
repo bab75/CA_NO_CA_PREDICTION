@@ -1,7 +1,7 @@
 
-[browser]
-gatherUsageStats = false
-
-[server]
-headless = true
-enableCORS = false
+[theme]
+primaryColor = "#FF4B4B"
+backgroundColor = "#0E1117"
+secondaryBackgroundColor = "#1A2035"
+textColor = "#FAFAFA"
+font = "sans serif"
