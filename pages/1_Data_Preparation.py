@@ -712,7 +712,7 @@ def main():
     """, unsafe_allow_html=True)
 
     # Hide the original icon (we're using our custom header)
-    st.image("assets/absenteeism_icon.svg", width=0)
+    
 
     # Tabs for historical and current data
     data_tabs = st.tabs(["Historical Data Generation", "Current Year Data Generation", "Upload Data"])
