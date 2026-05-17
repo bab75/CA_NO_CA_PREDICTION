@@ -1586,7 +1586,7 @@ def main():
     """, unsafe_allow_html=True)
     
     # Load icon (just for reference in sidebar but use our banner for main display)
-    st.image("assets/model_icon.svg", width=0)
+   
     
     # Add a sidebar reset button
     with st.sidebar:
