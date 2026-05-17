@@ -428,7 +428,7 @@ def main():
     """, unsafe_allow_html=True)
     
     # Hidden original logo (for compatibility)
-    st.image("assets/logo.svg", width=0, output_format="SVG")
+    
     
     # Create a dashboard introduction with animation
     st.markdown("""
