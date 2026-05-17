@@ -1147,7 +1147,7 @@ def main():
     """, unsafe_allow_html=True)
     
     # Hide the original icon (we're using our custom header)
-    st.image("assets/analytics_icon.svg", width=0)
+  
     
     # Navigation sidebar
     analysis_option = st.sidebar.selectbox(
